@@ -1,0 +1,27 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+.mea-culpa-regular {
+	font-family: 'Mea Culpa', cursive;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.pinyon-script-regular {
+	font-family: 'Pinyon Script', cursive;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.birthstone-regular {
+	font-family: 'Birthstone', cursive;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.bebas-neue-regular {
+	font-family: 'Bebas Neue', sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
