@@ -18,7 +18,7 @@
 
 <div class=" flex w-screen flex-1 grow items-center justify-center">
 	<div
-		class="  flex h-[500px] w-[1000px] flex-col items-center justify-center rounded-lg border-4 border-black bg-[#FFC8DD] p-10 shadow-lg"
+		class="  flex h-[600px] w-[1000px] flex-col items-center justify-center rounded-lg border-4 border-black bg-[#FFC8DD] p-10 shadow-lg"
 		class:bg-teal-600={answers[data.question.id - 1] === 2}
 		class:bg-red-700={answers[data.question.id - 1] === 1}
 	>
